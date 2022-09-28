@@ -45,7 +45,8 @@
         "cast in shadows",
         "shrouded in smoke",
         "lit by a single light source",
-        "covered in snow"
+        "covered in snow",
+        "barely visible"
     ],
     "characters": [
         "a giant arrives",
@@ -68,6 +69,11 @@
         "a ragged bunch arrives",
         "an adventurer arrives",
         "an ominous figure arrives",
-        "a curious figure arrives"
+        "a curious figure arrives",
+        "a pilot arrives",
+        "a film crew arrives",
+        "a sailor arrives",
+        "a detective arrives",
+        "a carnival troupe arrives"
     ]
 }
