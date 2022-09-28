@@ -10,7 +10,7 @@
         "at the factory grounds",
         "at a border crossing",
         "at a hut in the forest",
-        "at an old stone cabin in the mountains",
+        "at an old cabin in the mountains",
         "in a solemn courtyard",
         "at a modernist mansion overlooking the city",
         "in a crowded harbour",
@@ -20,7 +20,11 @@
         "in a hotel past its glory days",
         "in a roadside restaurant",
         "in a dusty bookstore",
-        "in a makeshift camp"
+        "in a makeshift camp",
+        "at an overgrown temple",
+        "at an indistinct overpass",
+        "at the gates of the city",
+        "in a hidden hovel"
     ],
     "atmospheres": [
         "on an overcast day",
@@ -40,7 +44,8 @@
         "weary from travelling",
         "cast in shadows",
         "shrouded in smoke",
-        "lit by a single light source"
+        "lit by a single light source",
+        "covered in snow"
     ],
     "characters": [
         "a giant arrives",
@@ -60,6 +65,9 @@
         "an outlaw arrives",
         "a bearer of bad news arrives",
         "an unlikely couple arrives",
-        "a ragged bunch arrives"
+        "a ragged bunch arrives",
+        "an adventurer arrives",
+        "an ominous figure arrives",
+        "a curious figure arrives"
     ]
 }
