@@ -40,12 +40,13 @@
 
 <style>
 	main {
-    	width: 90vw;
-    	margin: 0 auto;
+    	margin: 2rem auto;
 		font-size: 36px;
 	}
 	ul {
 		padding-left: 0;
+		margin-top: 0;
+		padding-top: 0;
 	}
 	li {
 		list-style-type: none;
@@ -53,6 +54,7 @@
 		margin: 0;
 	}
 	button {
-		font-size: 32px;
+		font-size: 28px;
+		cursor: pointer;
 	}
 </style>
