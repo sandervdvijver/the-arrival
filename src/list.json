@@ -19,11 +19,12 @@
         "at a market square",
         "in a hotel past its glory days",
         "in a roadside restaurant",
-        "in a dusty bookstore"
+        "in a dusty bookstore",
+        "in a makeshift camp",
     ],
     "atmospheres": [
         "on an overcast day",
-        "in the middle of a starless night",
+        "in the middle the night",
         "during summer solstice",
         "in the fog",
         "in winter",
@@ -31,6 +32,7 @@
         "in the early morning",
         "in autumn rain",
         "on a particularly hot day",
+        "on a cloudy day",
         "in stormy weather",
         "under moonlight",
         "after a long absence",
@@ -53,10 +55,11 @@
         "a hunter arrives",
         "a large animal arrives",
         "a family of four arrives",
-        "an adolescent arrives",
+        "a young man arrives",
         "an unwelcome guest arrives",
         "an outlaw arrives",
         "a bearer of bad news arrives",
-        "a large bird arrives"
+        "an unlikely couple arrives",
+        "a ragged bunch arrives"
     ]
 }
