@@ -27,7 +27,7 @@
         "an overgrown temple",
         "an indistinct overpass",
         "the gates of the city",
-        "a family gathering",
+        "a cheerful gathering",
         "a festive ceremony",
         "a rowdy police station",
         "a single tree on a hill",
@@ -44,8 +44,12 @@
         "a royal palace",
         "a dig site",
         "the start of a contest",
-        "a ship moored in the harbor",
-        "a watchtower"
+        "a ship in the harbor",
+        "a watchtower",
+        "a fork in the road",
+        "a liquor store",
+        "the back of the bus",
+        "a quiet train carriage"
     ],
     "atmospheres": [
         "on an overcast day",
@@ -63,6 +67,7 @@
         "after a long absence",
         "at dusk",
         "birds chirping",
+        "spring in the air",
         "cast in shadows",
         "shrouded in smoke",
         "after the storm",
@@ -76,7 +81,10 @@
         "the smell of a wood stove",
         "the sun low in the sky",
         "dark clouds looming",
-        "the smell of summer"
+        "the smell of summer",
+        "a hazy summer evening",
+        "way out in the distance",
+        "on a blue monday"
     ],
     "characters": [
         "a giant arrives",
@@ -115,6 +123,7 @@
         "two entrepreneurs arrive",
         "an emissary arrives",
         "a rider arrives",
-        "a determined explorer arrives"
+        "a determined explorer arrives",
+        "a merry band of friends arrives"
     ]
 }
