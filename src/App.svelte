@@ -30,12 +30,12 @@
 </script>
 
 <main>
-	<ul>
+	<ul class="generated_list">
 		<li>{location}</li>
 		<li>{atmosphere}</li>
-		<br>
 		<li>{character}</li>
 	</ul>
+	<br>
 	<button on:click={handleClick}>Refresh</button>
 </main>
 
@@ -54,6 +54,9 @@
 		list-style-type: none;
 		padding: 0;
 		margin: 0;
+	}
+	ul.generated_list > li+li+li {
+		padding-left: 1em;
 	}
 	button {
 		font-size: 75%;
