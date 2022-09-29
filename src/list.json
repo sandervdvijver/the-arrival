@@ -49,7 +49,8 @@
         "a fork in the road",
         "a liquor store",
         "the back of the bus",
-        "a quiet train carriage"
+        "a quiet train carriage",
+        "a brutalist monument"
     ],
     "atmospheres": [
         "on an overcast day",
@@ -84,7 +85,8 @@
         "the smell of summer",
         "a hazy summer evening",
         "way out in the distance",
-        "on a blue monday"
+        "on a blue monday",
+        "light drizzle"
     ],
     "characters": [
         "a giant arrives",
@@ -120,10 +122,12 @@
         "a freelancer arrives",
         "a vagabond arrives",
         "a distraught child arrives",
-        "two entrepreneurs arrive",
-        "an emissary arrives",
+        "a travelling musician arrives",
         "a rider arrives",
         "a determined explorer arrives",
-        "a merry band of friends arrives"
+        "a merry band of friends arrives",
+        "a journalist arrives",
+        "a delivery arrives",
+        "a technician arrives"
     ]
 }
