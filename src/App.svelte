@@ -43,7 +43,7 @@
 	main {
     	margin: 2rem auto;
 		font-size: 36px;
-		font-size: clamp(16px, 4vw, 36px);
+		font-size: clamp(30px, 4vw, 36px);
 	}
 	ul {
 		padding-left: 0;
