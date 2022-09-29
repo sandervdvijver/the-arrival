@@ -33,6 +33,7 @@
 	<ul>
 		<li>{location}</li>
 		<li>{atmosphere}</li>
+		<br>
 		<li>{character}</li>
 	</ul>
 	<button on:click={handleClick}>Refresh</button>
@@ -42,6 +43,7 @@
 	main {
     	margin: 2rem auto;
 		font-size: 36px;
+		font-size: clamp(16px, 4vw, 36px);
 	}
 	ul {
 		padding-left: 0;
@@ -54,7 +56,7 @@
 		margin: 0;
 	}
 	button {
-		font-size: 28px;
+		font-size: 75%;
 		cursor: pointer;
 	}
 </style>
